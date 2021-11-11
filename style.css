@@ -371,7 +371,7 @@
 		#dp-slider,
 		.dp-img img {
 		    height: 450px;
-			width:600px;
+			width:400px;
 		}
 		#dp-slider .dp_item:hover:not(:first-child) {
 		    cursor: pointer;
