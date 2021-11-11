@@ -370,7 +370,7 @@
 		}
 		#dp-slider,
 		.dp-img img {
-		    height: 350px;
+		    height: 450px;
 			width:600px;
 		}
 		#dp-slider .dp_item:hover:not(:first-child) {
