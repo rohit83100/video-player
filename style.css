@@ -252,7 +252,7 @@
 		    position: relative;
 		    perspective: 1000px;
 		    height: 100%;
-        margin-top: -400px;
+        margin-top: -450px;
         
 		}
 		.dp-slider {
@@ -424,7 +424,7 @@
     width: 700px;
     height: 100%;
     margin-top:-1000px;
-    margin-left: 600px;
+    margin-left: 400px;
     border-radius: 5px;
     overflow: hidden;
     box-shadow: 0 0 5px rgba(255,255,255,0.24);
